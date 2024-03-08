@@ -1,1 +1,2 @@
 # first-website
+This is a project within the Foundations course in the Odin Project. I have learned CSS and HTML so far, and I aim to apply my skills to create the landing page of this website from scratch.
